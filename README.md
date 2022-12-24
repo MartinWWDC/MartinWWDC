@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @MartinWWDC
 - 👀 I’m interested in everythig which can be fun to code
-- 🌱 I’m currently learning Golang 
+- 🌱 I’m currently learning PHP and React
+-    I'm Studyng Informatic at the Università Statale of Milano 
 - 📫 How to reach me: martinoleone5@gmail.com
 
 <!---
